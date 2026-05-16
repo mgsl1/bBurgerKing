@@ -1,0 +1,8 @@
+{
+  "name": "Burger King Website",
+  "description": "A high-converting, blazing-fast web application for Burger King with ordering flow, store locator, and AI recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
